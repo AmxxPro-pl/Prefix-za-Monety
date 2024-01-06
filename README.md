@@ -18,6 +18,10 @@
   - Main Menu
   
    <img src="https://github.com/AmxxPro-pl/Prefix-za-Monety/blob/main/png/Menu_Prefix.png"></img>
+
+   - Main Menu with Colors
+
+   <img src="https://github.com/AmxxPro-pl/Prefix-za-Monety/blob/main/png/Prefix_color.png"></img>
   - MOTD
   
    <img src="https://github.com/AmxxPro-pl/Prefix-za-Monety/blob/main/png/Motd_Prefix.png"></img>
